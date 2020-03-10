@@ -1,3 +1,2 @@
-### Outbreak Information
-* Ebola
-* Enterovirus D68
+### Coronavirus Information
+* CDC - https://www.cdc.gov/coronavirus/2019-ncov/summary.html
