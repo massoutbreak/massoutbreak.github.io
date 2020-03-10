@@ -1,0 +1,8 @@
+title: Mass Outbreak
+description: Outbreak Information
+google_analytics: UA-55410934-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
